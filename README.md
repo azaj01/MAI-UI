@@ -268,32 +268,23 @@ agent = MAIUINaivigationAgent(
 If you find this project useful for your research, please consider citing our works:
 
 ```bibtex
-@misc{zhou2025maiuitechnicalreportrealworld,
-      title={MAI-UI Technical Report: Real-World Centric Foundation GUI Agents}, 
-      author={Hanzhang Zhou and Xu Zhang and Panrong Tong and Jianan Zhang and Liangyu Chen and Quyu Kong and Chenglin Cai and Chen Liu and Yue Wang and Jingren Zhou and Steven Hoi},
-      year={2025},
-      eprint={2512.22047},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2512.22047}, 
+@article{zhou2025mai,
+  title={MAI-UI Technical Report: Real-World Centric Foundation GUI Agents},
+  author={Zhou, Hanzhang and Zhang, Xu and Tong, Panrong and Zhang, Jianan and Chen, Liangyu and Kong, Quyu and Cai, Chenglin and Liu, Chen and Wang, Yue and Zhou, Jingren and others},
+  journal={arXiv preprint arXiv:2512.22047},
+  year={2025}
 }
-@misc{chen2025uiinsenhancingguigrounding,
-      title={UI-Ins: Enhancing GUI Grounding with Multi-Perspective Instruction-as-Reasoning}, 
-      author={Liangyu Chen and Hanzhang Zhou and Chenglin Cai and Jianan Zhang and Panrong Tong and Quyu Kong and Xu Zhang and Chen Liu and Yuqi Liu and Wenxuan Wang and Yue Wang and Qin Jin and Steven Hoi},
-      year={2025},
-      eprint={2510.20286},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2510.20286}, 
+@article{kong2025mobileworld,
+  title={MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments},
+  author={Kong, Quyu and Zhang, Xu and Yang, Zhenyu and Gao, Nolan and Liu, Chen and Tong, Panrong and Cai, Chenglin and Zhou, Hanzhang and Zhang, Jianan and Chen, Liangyu and others},
+  journal={arXiv preprint arXiv:2512.19432},
+  year={2025}
 }
-@misc{kong2025mobileworldbenchmarkingautonomousmobile,
-      title={MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive, and MCP-Augmented Environments}, 
-      author={Quyu Kong and Xu Zhang and Zhenyu Yang and Nolan Gao and Chen Liu and Panrong Tong and Chenglin Cai and Hanzhang Zhou and Jianan Zhang and Liangyu Chen and Zhidan Liu and Steven Hoi and Yue Wang},
-      year={2025},
-      eprint={2512.19432},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2512.19432}, 
+@article{chen2025ui,
+  title={UI-Ins: Enhancing GUI Grounding with Multi-Perspective Instruction-as-Reasoning},
+  author={Chen, Liangyu and Zhou, Hanzhang and Cai, Chenglin and Zhang, Jianan and Tong, Panrong and Kong, Quyu and Zhang, Xu and Liu, Chen and Liu, Yuqi and Wang, Wenxuan and others},
+  journal={arXiv preprint arXiv:2510.20286},
+  year={2025}
 }
 ```
 
